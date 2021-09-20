@@ -1,0 +1,1 @@
+../../../EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider/rapidjson/error/error.h

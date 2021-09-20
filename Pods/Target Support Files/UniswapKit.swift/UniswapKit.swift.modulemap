@@ -1,0 +1,6 @@
+module UniswapKit {
+  umbrella header "UniswapKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

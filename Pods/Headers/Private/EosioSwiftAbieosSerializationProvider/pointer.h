@@ -1,0 +1,1 @@
+../../../EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider/rapidjson/pointer.h

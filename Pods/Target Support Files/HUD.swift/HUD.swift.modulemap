@@ -1,0 +1,6 @@
+module HUD {
+  umbrella header "HUD.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

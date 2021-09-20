@@ -1,0 +1,1 @@
+../../../Target Support Files/XRatesKit.swift/XRatesKit.swift-umbrella.h

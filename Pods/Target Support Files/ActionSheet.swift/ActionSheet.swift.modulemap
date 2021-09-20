@@ -1,0 +1,6 @@
+module ActionSheet {
+  umbrella header "ActionSheet.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

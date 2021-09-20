@@ -1,0 +1,1 @@
+../../../EosKit.swift/EosKit/EosKit/EosKit.h

@@ -1,0 +1,1 @@
+../../../Target Support Files/BitcoinCore.swift/BitcoinCore.swift-umbrella.h

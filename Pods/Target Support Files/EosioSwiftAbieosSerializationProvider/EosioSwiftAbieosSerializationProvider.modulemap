@@ -1,0 +1,6 @@
+module EosioSwiftAbieosSerializationProvider {
+  umbrella header "EosioSwiftAbieosSerializationProvider-umbrella.h"
+
+  export *
+  module * { export * }
+}

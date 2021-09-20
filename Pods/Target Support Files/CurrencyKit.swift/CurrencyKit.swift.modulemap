@@ -1,0 +1,6 @@
+module CurrencyKit {
+  umbrella header "CurrencyKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module ModuleKit {
+  umbrella header "ModuleKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

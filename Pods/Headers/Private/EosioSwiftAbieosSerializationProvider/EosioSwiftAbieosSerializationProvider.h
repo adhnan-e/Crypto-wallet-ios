@@ -1,0 +1,1 @@
+../../../EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider.h

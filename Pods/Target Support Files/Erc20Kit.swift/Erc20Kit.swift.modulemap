@@ -1,0 +1,6 @@
+module Erc20Kit {
+  umbrella header "Erc20Kit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

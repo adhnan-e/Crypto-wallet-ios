@@ -1,0 +1,1 @@
+../../../Target Support Files/BinanceChainKit.swift/BinanceChainKit.swift-umbrella.h

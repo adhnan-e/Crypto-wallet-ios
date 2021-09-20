@@ -1,0 +1,1 @@
+../../../EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider/abieos_exception.hpp

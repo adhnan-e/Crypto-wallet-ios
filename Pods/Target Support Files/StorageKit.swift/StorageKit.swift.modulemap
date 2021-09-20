@@ -1,0 +1,6 @@
+module StorageKit {
+  umbrella header "StorageKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

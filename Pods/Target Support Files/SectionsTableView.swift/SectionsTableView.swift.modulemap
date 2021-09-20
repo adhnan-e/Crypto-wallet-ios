@@ -1,0 +1,6 @@
+module SectionsTableView {
+  umbrella header "SectionsTableView.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

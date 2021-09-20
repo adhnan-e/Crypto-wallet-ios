@@ -1,0 +1,6 @@
+module Pods_Unstoppable_Tests {
+  umbrella header "Pods-Unstoppable Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

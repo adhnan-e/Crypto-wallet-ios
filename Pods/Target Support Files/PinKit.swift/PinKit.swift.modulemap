@@ -1,0 +1,6 @@
+module PinKit {
+  umbrella header "PinKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

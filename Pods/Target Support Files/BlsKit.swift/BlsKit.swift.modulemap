@@ -1,0 +1,6 @@
+module BlsKit {
+  umbrella header "BlsKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

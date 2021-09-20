@@ -1,0 +1,1 @@
+../../../EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider/date/date.h

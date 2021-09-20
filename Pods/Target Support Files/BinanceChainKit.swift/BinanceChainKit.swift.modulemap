@@ -1,0 +1,6 @@
+module BinanceChainKit {
+  umbrella header "BinanceChainKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1 @@
+../../../BlsKit.swift/BlsKit/Classes/BLSKey.h

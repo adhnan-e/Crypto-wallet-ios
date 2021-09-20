@@ -1,0 +1,6 @@
+module XRatesKit {
+  umbrella header "XRatesKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1 @@
+../../../WalletConnect/WalletConnect/WalletConnect.h

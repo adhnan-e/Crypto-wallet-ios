@@ -1,0 +1,45 @@
+{
+  "name": "ModuleKit.swift",
+  "module_name": "ModuleKit",
+  "version": "1.0",
+  "summary": "UI modules",
+  "homepage": "https://github.com/horizontalsystems/component-kit-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Horizontal Systems": "hsdao@protonmail.ch"
+  },
+  "source": {
+    "git": "https://github.com/horizontalsystems/component-kit-ios.git",
+    "tag": "module-kit-1.0"
+  },
+  "social_media_url": "http://horizontalsystems.io/",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5",
+  "source_files": "ModuleKit/Classes/**/*",
+  "resource_bundles": {
+    "ModuleKit": [
+      "ModuleKit/Assets/*.xcassets",
+      "ModuleKit/Assets/*.lproj/*.strings"
+    ]
+  },
+  "dependencies": {
+    "UIExtensions.swift": [
+      "~> 1.1"
+    ],
+    "SectionsTableView.swift": [
+      "~> 1.1"
+    ],
+    "ThemeKit.swift": [
+      "~> 1.0"
+    ],
+    "LanguageKit.swift": [
+      "~> 1.0"
+    ]
+  },
+  "swift_version": "5"
+}

@@ -1,0 +1,1 @@
+../../../Target Support Files/ScanQrKit.swift/ScanQrKit.swift-umbrella.h

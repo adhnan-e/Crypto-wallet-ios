@@ -1,0 +1,1 @@
+../../../Target Support Files/SectionsTableView.swift/SectionsTableView.swift-umbrella.h

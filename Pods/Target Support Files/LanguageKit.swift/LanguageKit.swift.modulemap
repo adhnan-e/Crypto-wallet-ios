@@ -1,0 +1,6 @@
+module LanguageKit {
+  umbrella header "LanguageKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

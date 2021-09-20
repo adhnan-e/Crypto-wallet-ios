@@ -1,0 +1,1 @@
+../../../EosioSwiftEcc/EosioSwiftEcc/EosioSwiftEcc.h

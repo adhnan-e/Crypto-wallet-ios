@@ -1,0 +1,6 @@
+module Chart {
+  umbrella header "Chart.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

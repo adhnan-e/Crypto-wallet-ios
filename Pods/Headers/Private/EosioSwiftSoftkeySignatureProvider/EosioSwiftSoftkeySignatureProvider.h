@@ -1,0 +1,1 @@
+../../../EosioSwiftSoftkeySignatureProvider/EosioSwiftSoftkeySignatureProvider/EosioSwiftSoftkeySignatureProvider.h

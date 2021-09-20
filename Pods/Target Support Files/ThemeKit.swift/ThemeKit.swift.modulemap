@@ -1,0 +1,6 @@
+module ThemeKit {
+  umbrella header "ThemeKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,17 @@
+${PODS_ROOT}/Target Support Files/Pods-Unstoppable Dev/Pods-Unstoppable Dev-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/BitcoinCashKit.swift/BitcoinCashKit.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/BitcoinKit.swift/BitcoinKit.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/CurrencyKit.swift/CurrencyKit.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/DashKit.swift/DashKit.bundle
+${PODS_ROOT}/Down/Resources/DownView.bundle
+${PODS_ROOT}/EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider/transaction.abi.json
+${PODS_ROOT}/EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider/abi.abi.json
+${PODS_ROOT}/EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider/eosio.assert.abi.json
+${PODS_CONFIGURATION_BUILD_DIR}/EosioSwiftAbieosSerializationProvider/EosioSwiftAbieosSerializationProvider.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/HUD.swift/HUD.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/LitecoinKit.swift/LitecoinKit.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/ModuleKit.swift/ModuleKit.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/PinKit.swift/PinKit.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/ScanQrKit.swift/ScanQrKit.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/StorageKit.swift/StorageKit.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/ThemeKit.swift/ThemeKit.bundle

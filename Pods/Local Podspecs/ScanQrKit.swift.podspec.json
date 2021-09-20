@@ -1,0 +1,42 @@
+{
+  "name": "ScanQrKit.swift",
+  "module_name": "ScanQrKit",
+  "version": "1.0",
+  "summary": "Scan QR view",
+  "homepage": "https://github.com/horizontalsystems/component-kit-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Horizontal Systems": "hsdao@protonmail.ch"
+  },
+  "source": {
+    "git": "https://github.com/horizontalsystems/component-kit-ios.git",
+    "tag": "1.0"
+  },
+  "social_media_url": "http://horizontalsystems.io/",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5",
+  "source_files": "ScanQrKit/Classes/**/*",
+  "resource_bundles": {
+    "ScanQrKit": [
+      "ScanQrKit/Assets/*.xcassets",
+      "ScanQrKit/Assets/*.lproj/*.strings"
+    ]
+  },
+  "dependencies": {
+    "UIExtensions.swift": [
+      "~> 1.1"
+    ],
+    "ThemeKit.swift": [
+      "~> 1.0"
+    ],
+    "LanguageKit.swift": [
+      "~> 1.0"
+    ]
+  },
+  "swift_version": "5"
+}

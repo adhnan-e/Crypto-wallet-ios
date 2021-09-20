@@ -1,0 +1,48 @@
+{
+  "name": "PinKit.swift",
+  "module_name": "PinKit",
+  "version": "1.0",
+  "summary": "Pin components",
+  "homepage": "https://github.com/horizontalsystems/component-kit-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Horizontal Systems": "hsdao@protonmail.ch"
+  },
+  "source": {
+    "git": "https://github.com/horizontalsystems/component-kit-ios.git",
+    "tag": "1.0"
+  },
+  "social_media_url": "http://horizontalsystems.io/",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5",
+  "source_files": "PinKit/Classes/**/*",
+  "resource_bundles": {
+    "PinKit": [
+      "PinKit/Assets/*.xcassets",
+      "PinKit/Assets/*.lproj/*.strings"
+    ]
+  },
+  "dependencies": {
+    "UIExtensions.swift": [
+      "~> 1.1"
+    ],
+    "ThemeKit.swift": [
+      "~> 1.0"
+    ],
+    "LanguageKit.swift": [
+      "~> 1.0"
+    ],
+    "StorageKit.swift": [
+      "~> 1.0"
+    ],
+    "RxSwift": [
+
+    ]
+  },
+  "swift_version": "5"
+}

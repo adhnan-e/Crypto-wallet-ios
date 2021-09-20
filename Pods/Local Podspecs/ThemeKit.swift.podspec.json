@@ -1,0 +1,45 @@
+{
+  "name": "ThemeKit.swift",
+  "module_name": "ThemeKit",
+  "version": "1.0",
+  "summary": "UI themes and components",
+  "homepage": "https://github.com/horizontalsystems/component-kit-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Horizontal Systems": "hsdao@protonmail.ch"
+  },
+  "source": {
+    "git": "https://github.com/horizontalsystems/component-kit-ios.git",
+    "tag": "theme-kit-1.0"
+  },
+  "social_media_url": "http://horizontalsystems.io/",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5",
+  "source_files": "ThemeKit/Classes/**/*",
+  "resource_bundles": {
+    "ThemeKit": [
+      "ThemeKit/Assets/*.xcassets",
+      "ThemeKit/Assets/*.lproj/*.strings"
+    ]
+  },
+  "dependencies": {
+    "UIExtensions.swift": [
+      "~> 1.1"
+    ],
+    "HUD.swift": [
+      "~> 1.2"
+    ],
+    "LanguageKit.swift": [
+      "~> 1.0"
+    ],
+    "SnapKit": [
+      "~> 5.0"
+    ]
+  },
+  "swift_version": "5"
+}

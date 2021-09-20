@@ -1,0 +1,6 @@
+module Pods_Unstoppable {
+  umbrella header "Pods-Unstoppable-umbrella.h"
+
+  export *
+  module * { export * }
+}

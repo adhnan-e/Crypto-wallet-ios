@@ -1,0 +1,6 @@
+module LitecoinKit {
+  umbrella header "LitecoinKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

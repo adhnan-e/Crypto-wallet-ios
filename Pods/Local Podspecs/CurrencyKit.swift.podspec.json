@@ -1,0 +1,48 @@
+{
+  "name": "CurrencyKit.swift",
+  "module_name": "CurrencyKit",
+  "version": "1.0",
+  "summary": "Currency management",
+  "homepage": "https://github.com/horizontalsystems/component-kit-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Horizontal Systems": "hsdao@protonmail.ch"
+  },
+  "source": {
+    "git": "https://github.com/horizontalsystems/component-kit-ios.git",
+    "tag": "language-kit-1.0"
+  },
+  "social_media_url": "http://horizontalsystems.io/",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5",
+  "source_files": "CurrencyKit/Classes/**/*",
+  "resource_bundles": {
+    "CurrencyKit": [
+      "CurrencyKit/Assets/*.xcassets",
+      "CurrencyKit/Assets/*.lproj/*.strings"
+    ]
+  },
+  "dependencies": {
+    "SectionsTableView.swift": [
+      "~> 1.1"
+    ],
+    "ThemeKit.swift": [
+      "~> 1.0"
+    ],
+    "LanguageKit.swift": [
+      "~> 1.0"
+    ],
+    "StorageKit.swift": [
+      "~> 1.0"
+    ],
+    "RxSwift": [
+      "~> 5.0"
+    ]
+  },
+  "swift_version": "5"
+}

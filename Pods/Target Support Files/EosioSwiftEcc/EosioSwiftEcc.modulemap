@@ -1,0 +1,6 @@
+module EosioSwiftEcc {
+  umbrella header "EosioSwiftEcc-umbrella.h"
+
+  export *
+  module * { export * }
+}

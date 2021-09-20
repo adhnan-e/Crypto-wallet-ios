@@ -1,0 +1,42 @@
+{
+  "name": "StorageKit.swift",
+  "module_name": "StorageKit",
+  "version": "1.0",
+  "summary": "UserDefaults and Keychain storage helpers",
+  "homepage": "https://github.com/horizontalsystems/component-kit-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Horizontal Systems": "hsdao@protonmail.ch"
+  },
+  "source": {
+    "git": "https://github.com/horizontalsystems/component-kit-ios.git",
+    "tag": "storage-kit-1.0"
+  },
+  "social_media_url": "http://horizontalsystems.io/",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5",
+  "source_files": "StorageKit/Classes/**/*",
+  "resource_bundles": {
+    "StorageKit": [
+      "StorageKit/Assets/*.xcassets",
+      "StorageKit/Assets/*.lproj/*.strings"
+    ]
+  },
+  "dependencies": {
+    "ThemeKit.swift": [
+      "~> 1.0"
+    ],
+    "LanguageKit.swift": [
+      "~> 1.0"
+    ],
+    "KeychainAccess": [
+      "~> 4.1"
+    ]
+  },
+  "swift_version": "5"
+}

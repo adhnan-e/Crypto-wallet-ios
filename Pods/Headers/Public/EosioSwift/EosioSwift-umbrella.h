@@ -1,0 +1,1 @@
+../../../Target Support Files/EosioSwift/EosioSwift-umbrella.h

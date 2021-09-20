@@ -1,0 +1,6 @@
+module BitcoinKit {
+  umbrella header "BitcoinKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

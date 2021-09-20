@@ -1,0 +1,6 @@
+module ScanQrKit {
+  umbrella header "ScanQrKit.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
